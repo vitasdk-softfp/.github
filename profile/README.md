@@ -4,7 +4,7 @@ This organization provides softfp version of [VitaSDK](https://vitasdk.org), its
 One difference from upstream `packages` is that instead of standard SDL2, [Northfear's SDL2-vitagl](https://github.com/Northfear/SDL) fork is provided by default.
 This fork makes use of VitaGL as rendering backend instead of standard GXM and thus allows managing GL context through SDL (using SDL_GL stuff) unlike the upstream version.
 
-**Last fork synchronization with upstream:** Nov 26 2023.
+**Last fork synchronization with upstream:** Apr 26 2024.
 
 ## How to install
 
