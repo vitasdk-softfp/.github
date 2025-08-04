@@ -1,5 +1,5 @@
 ## vitasdk — softfp fork
-This organization provides softfp version of [VitaSDK](https://vitasdk.org), its package manager, and packages. Softfp is useful for Android->Vita ports done via so-laoder.
+This organization provides softfp version of [VitaSDK](https://vitasdk.org), it's package manager, and packages. Softfp is useful for Android->Vita ports done via so-loader.
 
 One difference from upstream `packages` is that instead of standard SDL2, [Northfear's SDL2-vitagl](https://github.com/Northfear/SDL) fork is provided by default.
 This fork makes use of VitaGL as rendering backend instead of standard GXM and thus allows managing GL context through SDL (using SDL_GL stuff) unlike the upstream version.
